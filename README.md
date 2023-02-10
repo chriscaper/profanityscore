@@ -11,5 +11,5 @@ The assumptions considered are:
 
 
 
-profanity_score.py -> consist of Python code
-tweets.txt -> contains list of 50 made-up tweets
+- profanity_score.py -> consist of Python code
+- tweets.txt -> contains list of 50 made-up tweets
