@@ -5,7 +5,4 @@ The degree of profanity refers to the extent of offensiveness in a given text. I
 
 For this assignment, I have implemented the assignment in Python.
 The assumptions considered are:
-Markup : 1. A numbered list
-              1. A nested numbered list
-              2. Which is numbered
-         2. Which is numbered
+
